@@ -14,7 +14,7 @@ public class PPT {
         System.out.println("------------------------------------------------------------------");
         System.out.println("|  TRIA UN IDIOMA   |   Elija un idioma   |   CHOOSE A LANGUAGE  |");
         System.out.println("|                   |                     |                      |");
-        System.out.println("|     Catala: 1     |    Castellano: 2    |       English: 3     |");
+        System.out.println("|     Catala: 1     |    CASTELLANO: 2    |       English: 3     |");
         System.out.println("------------------------------------------------------------------");
         System.out.println("                                                                  ");
         int idioma = lector.nextInt();
